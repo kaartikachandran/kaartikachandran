@@ -1,4 +1,4 @@
-## About Me
+## PROFILE OVERVIEW
 
 * 🎓 Electronics and Communication Engineering Student at RMK Engineering College
 * 💻 Aspiring Software Developer focused on Full Stack Development, Cybersecurity, and Computer Networking
