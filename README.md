@@ -2,7 +2,7 @@
 
 ### Software Developer | Cybersecurity Enthusiast | Networking Engineer
 
-Passionate about building secure, scalable, and intelligent systems across Full Stack Development, Cybersecurity, and Computer Networking. I enjoy developing practical solutions that combine software engineering, security analysis, AI integration, and networking technologies to solve real-world problems.
+Passionate about building secure, scalable, and intelligent systems across Full Stack Development, Cybersecurity, Wireless Communication and Networking. I enjoy developing practical solutions that combine software engineering, security analysis, AI integration, and networking technologies to solve real-world problems.
 
 📍 Chennai, India  
 🎓 B.E. Electronics and Communication Engineering  
@@ -20,7 +20,7 @@ Through hands-on projects, certifications, and technical exploration, I continuo
 
 - Cybersecurity & Threat Detection
 - Full Stack Development
-- Computer Networking
+- Wireless Communication
 - Network Monitoring & Optimization
 - Artificial Intelligence Applications
 - Cloud Technologies
